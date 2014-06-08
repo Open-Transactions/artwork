@@ -1,0 +1,9 @@
+# osx noise
+.DS_Store
+profile
+
+# KDE Dolphin (file manager) noise
+.directory
+
+# emacs noise
+*~
